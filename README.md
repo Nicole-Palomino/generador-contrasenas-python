@@ -4,7 +4,7 @@
 
 ### Características Principales:
 - Personaliza la longitud de la contraseña.
-- Incluye mayúsculas, minúsculas, números y símbolos según tus preferencias.
+- Incluye mayúsculas, números y símbolos según tus preferencias.
 - Interfaz de usuario intuitiva y atractiva.
 - Posibilidad de copiar fácilmente las contraseñas generadas al portapapeles.
 
