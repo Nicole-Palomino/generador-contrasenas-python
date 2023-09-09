@@ -12,4 +12,4 @@
 https://webpassword-generator.netlify.app/
 
 ### Captura
-<img src="https://github.com/Nicole-Palomino/generador-contrasenas-python/blob/main/captura-de-pantalla.png" alt="Captura de pantalla" width="400" height="300">
+<img src="https://github.com/Nicole-Palomino/generador-contrasenas-python/blob/main/captura-de-pantalla.png" alt="Captura de pantalla" width="600" height="300">
